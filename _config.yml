@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : TravelCast Road Trip Planner is a powerful Route Builder with Weather Forecast for your trip at the time you will arrive. Plan your trip and enjoy it free from rain.
+app_description                           : Outrunner Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,28 +34,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Nice & Simple
-    description                           : has modern and simple interface
-    fontawesome_icon_name                 : universal-access
-
-  - title                                 : Powerful Route Builder
-    description                           : with waypoints and stopovers
-    fontawesome_icon_name                 : route
-
-  - title                                 : Pick Your Travel Style
-    description                           : supports motorcycle, car, bicycle, walking routes
-    fontawesome_icon_name                 : motorcycle
-
-  - title                                 : Get Weather Forecast
-    description                           : at the time you will arrive
-    fontawesome_icon_name                 : sun
-
   - title                                 : Optimize your Route
-    description                           : get home earlier
+    description                           : optimize up to 200 stops with timeframe on a time you need to be in a specific point
     fontawesome_icon_name                 : map-marked-alt
 
+  - title                                 : Powerful Route Builder
+    description                           : with waypoints, stopovers and stop time windows
+    fontawesome_icon_name                 : route
+
+  - title                                 : Pick Your Delivery Style
+    description                           : supports trucks, motorcycles, cars, bicycles and walking deliveries
+    fontawesome_icon_name                 : motorcycle
+
+  - title                                 : Simple delivery management
+    description                           : easy import of delivery addresses with delivery statuses
+    fontawesome_icon_name                 : file-import
+
+  - title                                 : Navigation is on us
+    description                           : one-click navigation to every stop.
+    fontawesome_icon_name                 : directions
+
   - title                                 : Share, Save, Export
-    description                           : use your favourite navigation app
+    description                           : history of your deliveries in one place
     fontawesome_icon_name                 : share-alt-square
 
   - title                                 : # Smart App Banner
@@ -110,9 +110,9 @@ footer_text_color                         : "#666666"
 
 # Pluggins Settings
 # jekyll-seo-tag
-title: TravelCast Road Trip Planner Mobile App
-tagline: TravelCast Road Trip Planner Mobile App
-description: TravelCast Road Trip Planner is a powerful Route Builder with Weather Forecast for your trip at the time you will arrive. Plan your trip and enjoy it free from rain.
+title: Outrunner Route Planner Mobile App
+tagline: Outrunner Route Planner Mobile App
+description: Outrunner Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
 google_site_verification:
 # jekyll-sitemap
 url: "https://travelcast.proalab.com" # the base hostname & protocol for your site
