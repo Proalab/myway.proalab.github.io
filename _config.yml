@@ -28,6 +28,7 @@ instagram_username                        :
 twitter_username                          :
 github_username                           :
 youtube_username                          :
+google_analytics                          : "G-L76TVR4661"
 
 
 
@@ -35,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Optimize your Route
-    description                           : optimize up to 200 stops with timeframe on a time you need to be in a specific point
+    description                           : optimize up to 100 stops with timeframe on a time you need to be in a specific point
     fontawesome_icon_name                 : map-marked-alt
 
   - title                                 : Powerful Route Builder
