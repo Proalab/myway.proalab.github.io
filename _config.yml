@@ -48,15 +48,15 @@ features                                  :
     fontawesome_icon_name                 : motorcycle
 
   - title                                 : Simple delivery management
-    description                           : easy import of delivery addresses with delivery statuses
+    description                           : easy import of delivery addresses with delivery statuses and proof of delivery
     fontawesome_icon_name                 : file-import
 
   - title                                 : Navigation is on us
-    description                           : one-click navigation to every stop.
+    description                           : one-click navigation to every stop with your favourite navigation app (Google Maps, Waze, OpenStreetMap, Apple Maps, Yandex, etc.).
     fontawesome_icon_name                 : directions
 
   - title                                 : Share, Save, Export
-    description                           : history of your deliveries in one place
+    description                           : history of all your deliveries in one place
     fontawesome_icon_name                 : share-alt-square
 
   - title                                 : # Smart App Banner
