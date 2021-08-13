@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Outrunner Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
+app_description                           : MyWay Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -111,12 +111,12 @@ footer_text_color                         : "#666666"
 
 # Pluggins Settings
 # jekyll-seo-tag
-title: Outrunner Route Planner Mobile App
-tagline: Outrunner Route Planner Mobile App
-description: Outrunner Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
+title: MyWay Route Planner Mobile App
+tagline: MyWay Route Planner Mobile App
+description: MyWay Route Planner optimizes the order of your delivery routes to save money on fuel and your time.
 google_site_verification:
 # jekyll-sitemap
-url: "https://outrunner.proalab.com" # the base hostname & protocol for your site
+url: "https://myway.proalab.com" # the base hostname & protocol for your site
 #
 
 
